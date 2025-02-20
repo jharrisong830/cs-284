@@ -1,0 +1,8 @@
+push 6.9
+pop m0
+push m0
+push 2
+pop m1
+pop m2
+push 2.84
+exit

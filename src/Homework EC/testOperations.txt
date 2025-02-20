@@ -1,0 +1,17 @@
+push 1
+push 2
+push 3
+push 4
+push 5
+push 6
+push 7
+push 8
+add
+pop m0
+sub
+pop m1
+mul
+pop m2
+div
+pop m3
+exit

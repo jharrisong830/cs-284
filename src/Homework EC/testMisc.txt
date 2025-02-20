@@ -1,0 +1,9 @@
+label iftherestofthecodedoesntworkthenthiswillbeaninfiniteloop
+push 8
+label decrement
+dec
+jmpz finished
+jmp decrement
+jmp iftherestofthecodedoesntworkthenthiswillbeaninfiniteloop
+label finished
+exit
